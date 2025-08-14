@@ -1,0 +1,4 @@
+@import "tailwindcss" source(none);
+
+@source inline("bg-red-500");
+@source inline("rounded-lg");
