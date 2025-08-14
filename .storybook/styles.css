@@ -2,3 +2,9 @@
 
 @source inline("bg-red-500");
 @source inline("rounded-lg");
+
+
+.badge {
+  background:#f00;
+  border-radius: 10px;
+}
